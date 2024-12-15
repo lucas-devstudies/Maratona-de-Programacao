@@ -1,0 +1,8 @@
+t = int(input())
+qtd = 0
+for i in range(t):
+    n = int(input())
+    if n%4 == 0:
+        print('YES')
+    else:
+        print('NO')
