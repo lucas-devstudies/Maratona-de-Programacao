@@ -1,0 +1,1 @@
+//preciso aprender a ler até o EOF em c++
